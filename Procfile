@@ -1,1 +1,1 @@
-web: gunicorn landingPage.wsgi
+web: gunicorn page.wsgi
